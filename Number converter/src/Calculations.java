@@ -31,7 +31,7 @@ public class Calculations {
             }
         }
         if(i != 4) {
-            for(int j = 0; j < i; j++){
+            for(int j = 0; j < (4-i); j++){
                 Arr.add('0');
             }
         }
